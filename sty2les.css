@@ -1,0 +1,51 @@
+* {
+    border: 1px dashed red;
+}
+
+body {
+    background-color: #fff;
+    width: 100%;
+}
+
+header{
+    width: 100%;
+}
+
+.container{
+    
+    width: 35%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 130%;
+    color: black;
+    background-color: white;
+    border-top: grey;
+    border-left: grey;
+    border-right: grey;
+    width: 30%;
+    position: absolute;
+}
+
+
+#icon {
+    float: left;
+    top: 1%;
+    color: grey ;
+    right: 5%;
+    margin-left: 30% ;
+    margin-bottom: 30%;
+}
+.fafa-magnifying-glass{
+    top: 0%;
+    background-color: rgb(212, 212, 212, 0.5);
+    border-radius: 5px;
+    height: 50%;
+}
+
+img {
+    width: 100%;
+    display: inline-block;
+}
